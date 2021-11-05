@@ -53,7 +53,6 @@
 		0211531E2734BEB800CA9F6F = {
 			isa = PBXGroup;
 			children = (
-				022734F02734F0640067AFF0 /* p11654.swift */,
 				021153292734BEB800CA9F6F /* AlgorithmMission_Week1 */,
 				021153282734BEB800CA9F6F /* Products */,
 			);
@@ -76,6 +75,7 @@
 				021153312734BEE800CA9F6F /* p1000.swift */,
 				021153332734C42A00CA9F6F /* p1008.swift */,
 				021153372734C65D00CA9F6F /* p2438.swift */,
+				022734F02734F0640067AFF0 /* p11654.swift */,
 			);
 			path = AlgorithmMission_Week1;
 			sourceTree = "<group>";
