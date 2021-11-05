@@ -9,4 +9,4 @@ import Foundation
 
 plusTwoThings()
 divideTwoThings()
-
+drawStars()
