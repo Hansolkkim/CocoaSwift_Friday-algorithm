@@ -16,7 +16,8 @@ struct p42840 {
         let Supo_3 = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5]
         var score = [0, 0, 0]
         var Winner:[Int] = []
-        for questionNum in 0..<answer.count {
+        let answerLength = answer.count
+        for questionNum in 0..<answerLength {
             if answer[questionNum] == Supo_1[questionNum%5] {
                 score[0] += 1
             }

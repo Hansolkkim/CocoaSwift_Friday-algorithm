@@ -8,9 +8,9 @@
 import Foundation
 
 //문제 19210 출력
-var myp19210 = p19210()
+var myp12910 = p12910()
 
-print(myp19210.howManyDividable([2, 36, 1, 3], 1))
+print(myp12910.howManyDividable([2, 36, 1, 3], 1))
 
 //문제 64061 출력
 var myp64061 = p64061()

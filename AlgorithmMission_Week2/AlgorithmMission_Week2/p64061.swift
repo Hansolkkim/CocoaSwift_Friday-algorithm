@@ -18,7 +18,7 @@ struct p64061 {
             for row in 0..<board[0].count {
                 if currentBoard[row][realColumn] != 0 {
 
-                    if basketStack.count == 0 { //바구니가 비어있었다면 그냥 뽑은 인형을 담으면 됨
+                    if basketStack.isEmpty { //바구니가 비어있었다면 그냥 뽑은 인형을 담으면 됨
                         basketStack.append(currentBoard[row][realColumn])
                     } else { //바구니가 비어있지 않았다면, 바구니 맨 위에 있는 인형과 뽑은 인형을 비교 후 넣을지 말지 해야함
                         let popedDoll: Int! = basketStack.popLast()

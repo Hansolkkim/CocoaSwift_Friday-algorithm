@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct p19210 {
+struct p12910 {
 
     func howManyDividable(_ arr:[Int], _ divisor: Int) -> [Int] {
         
@@ -18,7 +18,7 @@ struct p19210 {
                 dividableArray.append(number)
             }
         }
-        if dividableArray.count == 0 {
+        if dividableArray.isEmpty {
             dividableArray.append(-1)
         }
         

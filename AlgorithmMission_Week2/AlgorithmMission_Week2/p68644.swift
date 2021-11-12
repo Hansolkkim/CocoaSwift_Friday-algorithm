@@ -12,11 +12,12 @@ struct p68644 {
     func plusTwoElement(_ numbers: [Int]) -> [Int] {
         
         var result = [Int]()
+        let cnt = numbers.count
         
-        for i in 0..<numbers.count {
-            for j in (i+1)..<numbers.count {
+        for i in 0..<cnt {
+            for j in (i+1)..<cnt {
                 let plusedNum = numbers[i] + numbers[j]
-                if result.count != 0 {
+                if !result.isEmpty {
                     if result.contains(plusedNum) {
                         continue
                     } else {
