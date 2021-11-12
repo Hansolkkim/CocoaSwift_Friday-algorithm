@@ -11,6 +11,8 @@
 		02A252F8273E150B00AA8631 /* p19210.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252F7273E150B00AA8631 /* p19210.swift */; };
 		02A252FA273E238A00AA8631 /* p64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252F9273E238A00AA8631 /* p64061.swift */; };
 		02A252FC273E387900AA8631 /* p68644.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252FB273E387900AA8631 /* p68644.swift */; };
+		02A252FE273E418300AA8631 /* p42840.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252FD273E418300AA8631 /* p42840.swift */; };
+		02A25300273E45F100AA8631 /* p12901.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252FF273E45F100AA8631 /* p12901.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 		02A252F7273E150B00AA8631 /* p19210.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p19210.swift; sourceTree = "<group>"; };
 		02A252F9273E238A00AA8631 /* p64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p64061.swift; sourceTree = "<group>"; };
 		02A252FB273E387900AA8631 /* p68644.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p68644.swift; sourceTree = "<group>"; };
+		02A252FD273E418300AA8631 /* p42840.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p42840.swift; sourceTree = "<group>"; };
+		02A252FF273E45F100AA8631 /* p12901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12901.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				02A252F7273E150B00AA8631 /* p19210.swift */,
 				02A252F9273E238A00AA8631 /* p64061.swift */,
 				02A252FB273E387900AA8631 /* p68644.swift */,
+				02A252FD273E418300AA8631 /* p42840.swift */,
+				02A252FF273E45F100AA8631 /* p12901.swift */,
 			);
 			path = AlgorithmMission_Week2;
 			sourceTree = "<group>";
@@ -131,8 +137,10 @@
 			files = (
 				02A252F8273E150B00AA8631 /* p19210.swift in Sources */,
 				02A252F1273E128B00AA8631 /* main.swift in Sources */,
+				02A25300273E45F100AA8631 /* p12901.swift in Sources */,
 				02A252FA273E238A00AA8631 /* p64061.swift in Sources */,
 				02A252FC273E387900AA8631 /* p68644.swift in Sources */,
+				02A252FE273E418300AA8631 /* p42840.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
