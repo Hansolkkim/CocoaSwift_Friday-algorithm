@@ -16,7 +16,7 @@ struct p12901 {
         for index in 0..<a {
             myDay += month[index]
         }
-        //다른 사람 풀이에서 보니, myDay = month[0..<a].reduce(0,+)로 표현해도 되던데 왠지 모르겠다.
+        //다른 사람 풀이에서 보니, myDay = month[0..<a].reduce(0,+)로 표현해도 되던데, reduce에 대해 공부해보자.
         myDay += b
         
         return day[myDay % 7]

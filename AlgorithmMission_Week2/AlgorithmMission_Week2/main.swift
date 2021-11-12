@@ -31,3 +31,8 @@ print(myp42840.determineWinner([1,3,2,4,2]))
 var myp12901 = p12901()
 
 print(myp12901.dayIn2016(3, 1))
+
+//문제 12928 출력
+var myp12928 = p12928()
+
+print(myp12928.sumOfAliquot(0))
