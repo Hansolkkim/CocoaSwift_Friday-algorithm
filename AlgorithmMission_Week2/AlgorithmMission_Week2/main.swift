@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+//문제 19210 출력
+var myp19210 = p19210()
+
+print(myp19210.howManyDividable([2, 36, 1, 3], 1))
 
