@@ -11,6 +11,7 @@
 		025BA7EC274739840000EC5B /* gradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7EB274739840000EC5B /* gradingStudents.swift */; };
 		025BA7EE274747C60000EC5B /* compareTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7ED274747C60000EC5B /* compareTriplets.swift */; };
 		025BA7F027474A220000EC5B /* veryBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7EF27474A220000EC5B /* veryBigSum.swift */; };
+		025BA7F227474D820000EC5B /* timeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7F127474D820000EC5B /* timeConversion.swift */; };
 		029263EF274730F800CB1EA2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029263EE274730F800CB1EA2 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		025BA7EB274739840000EC5B /* gradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gradingStudents.swift; sourceTree = "<group>"; };
 		025BA7ED274747C60000EC5B /* compareTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = compareTriplets.swift; sourceTree = "<group>"; };
 		025BA7EF27474A220000EC5B /* veryBigSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = veryBigSum.swift; sourceTree = "<group>"; };
+		025BA7F127474D820000EC5B /* timeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timeConversion.swift; sourceTree = "<group>"; };
 		029263EB274730F800CB1EA2 /* AlgorithmMission_Week3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmMission_Week3; sourceTree = BUILT_PRODUCTS_DIR; };
 		029263EE274730F800CB1EA2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,6 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				029263EE274730F800CB1EA2 /* main.swift */,
+				025BA7F127474D820000EC5B /* timeConversion.swift */,
 				025BA7EF27474A220000EC5B /* veryBigSum.swift */,
 				025BA7E92747358C0000EC5B /* solveMeFirst.swift */,
 				025BA7EB274739840000EC5B /* gradingStudents.swift */,
@@ -132,6 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				025BA7F227474D820000EC5B /* timeConversion.swift in Sources */,
 				025BA7EA2747358C0000EC5B /* solveMeFirst.swift in Sources */,
 				025BA7EC274739840000EC5B /* gradingStudents.swift in Sources */,
 				025BA7EE274747C60000EC5B /* compareTriplets.swift in Sources */,
