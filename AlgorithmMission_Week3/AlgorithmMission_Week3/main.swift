@@ -8,4 +8,5 @@
 import Foundation
 
 solveMeFirst()
-
+print(grading(grades: [73, 67, 38, 33]))
+print(compareTriplets(a: [5, 6, 7], b: [3, 6, 10]))
