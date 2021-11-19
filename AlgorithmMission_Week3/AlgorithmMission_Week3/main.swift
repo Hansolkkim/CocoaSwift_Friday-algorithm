@@ -7,5 +7,5 @@
 
 import Foundation
 
-var mySolveMeFirst = solveMeFirst()
-mySolveMeFirst.printSMF()
+solveMeFirst()
+

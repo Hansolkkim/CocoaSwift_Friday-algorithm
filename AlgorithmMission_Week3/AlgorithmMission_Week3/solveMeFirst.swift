@@ -7,16 +7,11 @@
 
 import Foundation
 
-struct solveMeFirst {
-    var a: Int!
-    var b: Int!
+func solveMeFirst() {
+    print("a = ",terminator: "")
+    let a = Int(readLine()!)!
+    print("b = ", terminator: "")
+    let b = Int(readLine()!)!
     
-    init() {
-        self.a = Int(readLine()!)!
-        self.b = Int(readLine()!)!
-    }
-    
-    func printSMF() {
-        print(a+b)
-    }
+    print("a + b = \(a+b)")
 }
