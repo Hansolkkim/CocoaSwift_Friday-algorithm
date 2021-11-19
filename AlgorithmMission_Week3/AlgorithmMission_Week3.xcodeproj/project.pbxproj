@@ -13,6 +13,11 @@
 		025BA7F027474A220000EC5B /* veryBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7EF27474A220000EC5B /* veryBigSum.swift */; };
 		025BA7F227474D820000EC5B /* timeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7F127474D820000EC5B /* timeConversion.swift */; };
 		025BA7F4274751DC0000EC5B /* kangaroo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025BA7F3274751DC0000EC5B /* kangaroo.swift */; };
+		0291F6A72747830500D189ED /* diagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0291F6A62747830500D189ED /* diagonalDifference.swift */; };
+		0291F6A9274786D100D189ED /* plusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0291F6A8274786D100D189ED /* plusMinus.swift */; };
+		0291F6AB27478A1E00D189ED /* stairCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0291F6AA27478A1E00D189ED /* stairCase.swift */; };
+		0291F6AD27478D4000D189ED /* miniMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0291F6AC27478D4000D189ED /* miniMaxSum.swift */; };
+		0291F6AF274790A000D189ED /* birthdayCakeCandles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0291F6AE274790A000D189ED /* birthdayCakeCandles.swift */; };
 		029263EF274730F800CB1EA2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029263EE274730F800CB1EA2 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +40,11 @@
 		025BA7EF27474A220000EC5B /* veryBigSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = veryBigSum.swift; sourceTree = "<group>"; };
 		025BA7F127474D820000EC5B /* timeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timeConversion.swift; sourceTree = "<group>"; };
 		025BA7F3274751DC0000EC5B /* kangaroo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kangaroo.swift; sourceTree = "<group>"; };
+		0291F6A62747830500D189ED /* diagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diagonalDifference.swift; sourceTree = "<group>"; };
+		0291F6A8274786D100D189ED /* plusMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plusMinus.swift; sourceTree = "<group>"; };
+		0291F6AA27478A1E00D189ED /* stairCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stairCase.swift; sourceTree = "<group>"; };
+		0291F6AC27478D4000D189ED /* miniMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = miniMaxSum.swift; sourceTree = "<group>"; };
+		0291F6AE274790A000D189ED /* birthdayCakeCandles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = birthdayCakeCandles.swift; sourceTree = "<group>"; };
 		029263EB274730F800CB1EA2 /* AlgorithmMission_Week3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmMission_Week3; sourceTree = BUILT_PRODUCTS_DIR; };
 		029263EE274730F800CB1EA2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,8 +80,13 @@
 			isa = PBXGroup;
 			children = (
 				029263EE274730F800CB1EA2 /* main.swift */,
+				0291F6AC27478D4000D189ED /* miniMaxSum.swift */,
+				0291F6AE274790A000D189ED /* birthdayCakeCandles.swift */,
 				025BA7F127474D820000EC5B /* timeConversion.swift */,
 				025BA7F3274751DC0000EC5B /* kangaroo.swift */,
+				0291F6A62747830500D189ED /* diagonalDifference.swift */,
+				0291F6A8274786D100D189ED /* plusMinus.swift */,
+				0291F6AA27478A1E00D189ED /* stairCase.swift */,
 				025BA7EF27474A220000EC5B /* veryBigSum.swift */,
 				025BA7E92747358C0000EC5B /* solveMeFirst.swift */,
 				025BA7EB274739840000EC5B /* gradingStudents.swift */,
@@ -139,10 +154,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				025BA7F227474D820000EC5B /* timeConversion.swift in Sources */,
+				0291F6AF274790A000D189ED /* birthdayCakeCandles.swift in Sources */,
 				025BA7F4274751DC0000EC5B /* kangaroo.swift in Sources */,
 				025BA7EA2747358C0000EC5B /* solveMeFirst.swift in Sources */,
 				025BA7EC274739840000EC5B /* gradingStudents.swift in Sources */,
 				025BA7EE274747C60000EC5B /* compareTriplets.swift in Sources */,
+				0291F6AD27478D4000D189ED /* miniMaxSum.swift in Sources */,
+				0291F6AB27478A1E00D189ED /* stairCase.swift in Sources */,
+				0291F6A72747830500D189ED /* diagonalDifference.swift in Sources */,
+				0291F6A9274786D100D189ED /* plusMinus.swift in Sources */,
 				029263EF274730F800CB1EA2 /* main.swift in Sources */,
 				025BA7F027474A220000EC5B /* veryBigSum.swift in Sources */,
 			);
