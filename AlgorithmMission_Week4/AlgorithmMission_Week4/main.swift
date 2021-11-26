@@ -10,3 +10,4 @@ import Foundation
 let mySum = TwoSum()
 print(mySum.twoSum([2,7,11,15], 9))
 
+print(reverseInt(123))
