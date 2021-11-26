@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+let mySum = TwoSum()
+print(mySum.twoSum([2,7,11,15], 9))
 
