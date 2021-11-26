@@ -7,14 +7,15 @@
 
 import Foundation
 
-//let mySum = TwoSum()
-//print(mySum.twoSum([2,7,11,15], 9))
-//
-//print(reverseInt(123))
-//
-//print(isPalindrome(-101))
-//
-//print(romanToInt("MCMXCIV"))
-//
-//print(longestCommonPrefix(["abab","aba","abc"]))
+let mySum = TwoSum()
+
+print(mySum.twoSum([1,3,7,5,6,4], 7))
+
+print(reverseInt(123))
+
+print(isPalindrome(-101))
+
+print(romanToInt("MCMXCIV"))
+
+print(longestCommonPrefix(["abab","aba","abc"]))
 
