@@ -15,3 +15,5 @@ print(reverseInt(123))
 print(isPalindrome(-101))
 
 print(romanToInt("MCMXCIV"))
+
+print(longestCommonPrefix(["abab","aba","abc"]))
