@@ -11,6 +11,7 @@
 		02CA7524275074F0004BAB67 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CA7523275074F0004BAB67 /* TwoSum.swift */; };
 		02CA752627507BE6004BAB67 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CA752527507BE6004BAB67 /* ReverseInteger.swift */; };
 		02CA7528275086FD004BAB67 /* Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CA7527275086FD004BAB67 /* Palindrome Number.swift */; };
+		02CA752A27508941004BAB67 /* Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CA752927508941004BAB67 /* Roman to Integer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		02CA7523275074F0004BAB67 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		02CA752527507BE6004BAB67 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
 		02CA7527275086FD004BAB67 /* Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Palindrome Number.swift"; sourceTree = "<group>"; };
+		02CA752927508941004BAB67 /* Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Roman to Integer.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				02CA7523275074F0004BAB67 /* TwoSum.swift */,
 				02CA752527507BE6004BAB67 /* ReverseInteger.swift */,
 				02CA7527275086FD004BAB67 /* Palindrome Number.swift */,
+				02CA752927508941004BAB67 /* Roman to Integer.swift */,
 			);
 			path = AlgorithmMission_Week4;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02CA7524275074F0004BAB67 /* TwoSum.swift in Sources */,
+				02CA752A27508941004BAB67 /* Roman to Integer.swift in Sources */,
 				02CA751D275071F2004BAB67 /* main.swift in Sources */,
 				02CA7528275086FD004BAB67 /* Palindrome Number.swift in Sources */,
 				02CA752627507BE6004BAB67 /* ReverseInteger.swift in Sources */,
