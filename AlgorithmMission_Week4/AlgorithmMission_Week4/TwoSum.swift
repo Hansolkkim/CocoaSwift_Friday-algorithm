@@ -9,9 +9,9 @@ import Foundation
 
 class TwoSum {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-        for leftNum in 0..<nums.count {
-            for rightNum in 0..<nums.count {
-                if leftNum != rightNum && nums[leftNum] + nums[rightNum] == target {
+        for leftNum in 0..<nums.count-1 {
+            for rightNum in leftNum+1..<nums.count {
+                if nums[leftNum] + nums[rightNum] == target {
                     return [leftNum,rightNum]
                 }
             }
