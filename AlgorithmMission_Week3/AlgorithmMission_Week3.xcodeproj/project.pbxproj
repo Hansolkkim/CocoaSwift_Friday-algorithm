@@ -20,6 +20,7 @@
 		0291F6AF274790A000D189ED /* birthdayCakeCandles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0291F6AE274790A000D189ED /* birthdayCakeCandles.swift */; };
 		029263EF274730F800CB1EA2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029263EE274730F800CB1EA2 /* main.swift */; };
 		02C904952755E0DA008533A6 /* BreakingRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C904942755E0DA008533A6 /* BreakingRecords.swift */; };
+		02E86A412758B4050015BF4F /* appleAndOrange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E86A402758B4050015BF4F /* appleAndOrange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		029263EB274730F800CB1EA2 /* AlgorithmMission_Week3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmMission_Week3; sourceTree = BUILT_PRODUCTS_DIR; };
 		029263EE274730F800CB1EA2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02C904942755E0DA008533A6 /* BreakingRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecords.swift; sourceTree = "<group>"; };
+		02E86A402758B4050015BF4F /* appleAndOrange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appleAndOrange.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				025BA7EB274739840000EC5B /* gradingStudents.swift */,
 				025BA7ED274747C60000EC5B /* compareTriplets.swift */,
 				02C904942755E0DA008533A6 /* BreakingRecords.swift */,
+				02E86A402758B4050015BF4F /* appleAndOrange.swift */,
 			);
 			path = AlgorithmMission_Week3;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				025BA7F227474D820000EC5B /* timeConversion.swift in Sources */,
 				0291F6AF274790A000D189ED /* birthdayCakeCandles.swift in Sources */,
+				02E86A412758B4050015BF4F /* appleAndOrange.swift in Sources */,
 				025BA7F4274751DC0000EC5B /* kangaroo.swift in Sources */,
 				025BA7EA2747358C0000EC5B /* solveMeFirst.swift in Sources */,
 				025BA7EC274739840000EC5B /* gradingStudents.swift in Sources */,
