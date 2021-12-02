@@ -8,17 +8,6 @@
 import Foundation
 
 func countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: [Int], oranges: [Int]) -> Void {
-    var countApples = 0, countOranges = 0
-    
-    for houseLandDigit in s...t {
-        for apple in apples {
-            if houseLandDigit == a + apple {countApples += 1}
-        }
-        for orange in oranges {
-            if houseLandDigit == b + orange {countOranges += 1}
-        }
-    }
-    
-    print(countApples)
-    print(countOranges)
+    print(apples.filter {a + $0 >= s && a + $0 <= t}.count)
+    print(oranges.filter {b + $0 >= s && b + $0 <= t}.count)
 }
