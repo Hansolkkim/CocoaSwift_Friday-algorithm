@@ -36,3 +36,6 @@ print(myp12901.dayIn2016(3, 1))
 var myp12928 = p12928()
 
 print(myp12928.sumOfAliquot(0))
+
+//문제 42748 출력
+print(kthNumber([1, 5, 2, 6, 3, 7, 4], [[2, 5, 3], [4, 4, 1], [1, 7, 3]]))
