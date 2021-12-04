@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		02A0D2F6275A15B800AC5916 /* p42748.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A0D2F5275A15B800AC5916 /* p42748.swift */; };
+		02A0D2F8275B1CB000AC5916 /* p86051.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A0D2F7275B1CAF00AC5916 /* p86051.swift */; };
 		02A252F1273E128B00AA8631 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252F0273E128B00AA8631 /* main.swift */; };
 		02A252F8273E150B00AA8631 /* p19210.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252F7273E150B00AA8631 /* p19210.swift */; };
 		02A252FA273E238A00AA8631 /* p64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A252F9273E238A00AA8631 /* p64061.swift */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		02A0D2F5275A15B800AC5916 /* p42748.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p42748.swift; sourceTree = "<group>"; };
+		02A0D2F7275B1CAF00AC5916 /* p86051.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p86051.swift; sourceTree = "<group>"; };
 		02A252ED273E128B00AA8631 /* AlgorithmMission_Week2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmMission_Week2; sourceTree = BUILT_PRODUCTS_DIR; };
 		02A252F0273E128B00AA8631 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02A252F7273E150B00AA8631 /* p19210.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p19210.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				02A252FF273E45F100AA8631 /* p12901.swift */,
 				02A25303273E4D0800AA8631 /* p12928.swift */,
 				02A0D2F5275A15B800AC5916 /* p42748.swift */,
+				02A0D2F7275B1CAF00AC5916 /* p86051.swift */,
 			);
 			path = AlgorithmMission_Week2;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				02A25300273E45F100AA8631 /* p12901.swift in Sources */,
 				02A252FA273E238A00AA8631 /* p64061.swift in Sources */,
 				02A252FC273E387900AA8631 /* p68644.swift in Sources */,
+				02A0D2F8275B1CB000AC5916 /* p86051.swift in Sources */,
 				02A252FE273E418300AA8631 /* p42840.swift in Sources */,
 				02A25304273E4D0800AA8631 /* p12928.swift in Sources */,
 			);

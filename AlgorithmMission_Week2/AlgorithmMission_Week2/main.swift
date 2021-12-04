@@ -39,3 +39,6 @@ print(myp12928.sumOfAliquot(0))
 
 //문제 42748 출력
 print(kthNumber([1, 5, 2, 6, 3, 7, 4], [[2, 5, 3], [4, 4, 1], [1, 7, 3]]))
+
+//문자 86051 출력
+print(plusUnexistNumber([1,2,3,4,6,7,8,0]))
