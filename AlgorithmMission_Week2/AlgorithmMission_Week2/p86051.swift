@@ -8,8 +8,7 @@
 import Foundation
 
 func plusUnexistNumber(_ numbers: [Int]) -> Int {
-    return (0...9).map {(num : Int) -> Int in
-        if !numbers.contains(num) {return num}
-        else {return 0}
+    return (0...9).filter{
+        !numbers.contains($0)
     }.reduce(0, +)
 }
