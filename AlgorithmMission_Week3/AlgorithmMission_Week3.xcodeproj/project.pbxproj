@@ -84,19 +84,19 @@
 			isa = PBXGroup;
 			children = (
 				029263EE274730F800CB1EA2 /* main.swift */,
-				0291F6AC27478D4000D189ED /* miniMaxSum.swift */,
-				0291F6AE274790A000D189ED /* birthdayCakeCandles.swift */,
-				025BA7F127474D820000EC5B /* timeConversion.swift */,
-				025BA7F3274751DC0000EC5B /* kangaroo.swift */,
-				0291F6A62747830500D189ED /* diagonalDifference.swift */,
-				0291F6A8274786D100D189ED /* plusMinus.swift */,
-				0291F6AA27478A1E00D189ED /* stairCase.swift */,
-				025BA7EF27474A220000EC5B /* veryBigSum.swift */,
 				025BA7E92747358C0000EC5B /* solveMeFirst.swift */,
 				025BA7EB274739840000EC5B /* gradingStudents.swift */,
 				025BA7ED274747C60000EC5B /* compareTriplets.swift */,
+				025BA7EF27474A220000EC5B /* veryBigSum.swift */,
+				025BA7F127474D820000EC5B /* timeConversion.swift */,
+				025BA7F3274751DC0000EC5B /* kangaroo.swift */,
+				0291F6AE274790A000D189ED /* birthdayCakeCandles.swift */,
+				0291F6A62747830500D189ED /* diagonalDifference.swift */,
+				0291F6A8274786D100D189ED /* plusMinus.swift */,
+				0291F6AC27478D4000D189ED /* miniMaxSum.swift */,
 				02C904942755E0DA008533A6 /* BreakingRecords.swift */,
 				02E86A402758B4050015BF4F /* appleAndOrange.swift */,
+				0291F6AA27478A1E00D189ED /* stairCase.swift */,
 			);
 			path = AlgorithmMission_Week3;
 			sourceTree = "<group>";
